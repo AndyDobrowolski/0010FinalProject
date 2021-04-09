@@ -7,7 +7,7 @@ A repository for a final project
 ## Team Members:
 Anderis Dobrowolski - and209@pitt.edu 
 Kenny Zhang - kez32@pitt.edu 
-Nafee Jan - 
+Nafee Jan - nmj31@pitt.edu
 Yuqing Zhang - yuz191@pitt.edu 
 
 ## Dataset Used:
