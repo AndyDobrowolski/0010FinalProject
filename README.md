@@ -15,8 +15,8 @@ Team Members:
         - yuz191@pitt.edu
 
 Dataset Used:
-    - Allegheny County Air Quality: 
-        - https://data.wprdc.org/dataset/allegheny-county-air-quality
-
+    - Allegheny Country Air Quality: https://data.wprdc.org/dataset/allegheny-county-air-quality\
+    - 
+    - 
 
 Abstract:
