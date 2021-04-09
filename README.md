@@ -12,4 +12,4 @@ Team Members:
     - Nafee Jan
         -
     - Yuqing Zhang
-        -
+        - yuz191@pitt.edu
