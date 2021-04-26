@@ -24,6 +24,7 @@ Smart Trash Containers: https://data.wprdc.org/dataset/smart-trash-containers
  - This Dataset gives information about the different locations of Smart Trash Containers throughout the city of pittsburgh. 
    Smart trash containers have sensors in them that are able to notify companies when they are full in order to more easily   
    create routes for collecting trash throughout the city.
+  
 City of Pittsburgh Traffic Count: https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh
  - This Dataset holds information on the average traffic of multiple areas throughout the city of Pittsburgh. The Dataset 
    features start and end times as well as informaiton such as speed limits and average speed of cars.
